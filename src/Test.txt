@@ -1,4 +1,0 @@
-con/UN mèo/NN trèo/VB cây/UN cau/NN
-con/UN chuột/NN trèo/VB cây/UN cau/NN
-con/UN chuột/NN hỏi/VB con/UN mèo/NN
-con/UN trèo/VB là/VB con/UN nào/PRP
